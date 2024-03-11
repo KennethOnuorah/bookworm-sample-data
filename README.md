@@ -1,2 +1,2 @@
 # bookworm-sample-data
-A .XLSX containing sample data for my bookstore website project
+A JSON file containing sample data for my bookstore website project
